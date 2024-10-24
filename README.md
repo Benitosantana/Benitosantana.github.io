@@ -1,6 +1,6 @@
 # Um pouco sobre o Benito
 
-Oi eu sou o Benito José Alves Sant'Ana, vivo em Curitiba-PR no Brasil, e estudo em Pinhais, no IFPR (Instituto Federal do Parana), estou fazendo o curso de informatica, ainda estou no primeiro ano de quatro anos. Tambem sou atleta de natação, e treino no clube Morgenau, nesse campeonato Paranaense absoluto de natação conquistei o primeiro lugar na prova de 1500 metros livre, assim me tronei campeão paranaense absoluto. Outra atividade que pritico é o escotismo, sou escoteiro do grupo Nossa Senhora do Monte Claro que se localiza no santa candida (uma bairro de Curitiba).
+Oi eu sou o Benito José Alves Sant'Ana, vivo em Curitiba-PR no Brasil, e estudo em Pinhais, no **IFPR** (Instituto Federal do Parana), estou fazendo o curso de informatica, ainda estou no primeiro ano de quatro anos. Tambem sou atleta de natação, e treino no **clube Morgenau**, nesse campeonato Paranaense absoluto de natação conquistei o primeiro lugar na prova de 1500 metros livre, assim me tronei campeão paranaense absoluto. Outra atividade que pritico é o escotismo, sou escoteiro do **grupo Nossa Senhora do Monte Claro** que se localiza no santa candida (uma bairro de Curitiba).
 
 
 
@@ -12,12 +12,12 @@ Oi eu sou o Benito José Alves Sant'Ana, vivo em Curitiba-PR no Brasil, e estudo
 
 
 
-### foto do IFPR Pinhais
+#### foto do IFPR Pinhais
 ![foto do IFPR campus Pinhais](https://atreus-prd.qconcursos.com/articles/images/39e2a5cb-0cc6-4d7c-b8ad-61dd0a271fef/IFPR%20Campus%20de%20Pinhais.jpeg)
 
 
 
-### Alguns grupos escoteiros de curitiba:
+#### Alguns grupos escoteiros de curitiba:
 
 1. Nossa Senhora do Monte Claro
 2. Rondon
@@ -25,3 +25,14 @@ Oi eu sou o Benito José Alves Sant'Ana, vivo em Curitiba-PR no Brasil, e estudo
 4. Baden Powell
 5. Brigadeiro Eppinghaus
 6. Thalia
+   
+
+
+## Futuro
+
+Uma faculdade muito legal que eu gostaria de entrar é a **Unisanta**, ela é a faculdade em que a maioria dos atletas olimpicoa estuda, a unico ponto negativo dela é que ela está localizada em São Paulo capital. Eu gostaria de fazer faculdade nas áreas de **educação física**, **geografia** ou **história**, são áreas que acho interessante.
+
+
+
+#### clique na imagem para acessar o site da Unisanta
+[![clique na imagem](https://imagens.unisanta.br/logos/logo.jpg](https://unisanta.br/)
