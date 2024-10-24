@@ -35,4 +35,4 @@ Uma faculdade muito legal que eu gostaria de entrar é a **Unisanta**, ela é a 
 
 
 #### clique na imagem para acessar o site da Unisanta
-[![clique na imagem](https://imagens.unisanta.br/logos/logo.jpg](https://unisanta.br/)
+[![clique na imagem](https://imagens.unisanta.br/logos/logo.jpg)](https://unisanta.br/)]
